@@ -21,7 +21,7 @@ body{
 }
 
 .maincontent{
-    background-color: #121212;
+    background-color: #121213;
     flex: 1;  /* bachi hoi sari jagah isko dedo  */
     border-radius: 1rem; /* 1 rem = 16-px */
     overflow: auto;  /*auto means ek jgah chaiye hogi*/
